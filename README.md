@@ -1,6 +1,6 @@
-# External Memory argumented Recurrent Neural Networks (HEM-RNN)
+# External Long-term and Working Memory argumented Recurrent Neural Networks (ELWM-RNNs)
 
-Experiment on External Memory argumented Recurrent Neural Networks (HEM-RNN).
+Experiment on External Long-term and Working Memory argumented Recurrent Neural Networks (ELWM-RNNs).
 
 
 ## Prerequisties
@@ -10,7 +10,7 @@ Experiment on External Memory argumented Recurrent Neural Networks (HEM-RNN).
 
 
 
-## Results
+## Experiment on algorithm learning
 **Copy**
 ![alt_tag](unit_test/image/figure_4.png)
 **NTM Memory Use During the Copy Task**
@@ -29,6 +29,16 @@ Experiment on External Memory argumented Recurrent Neural Networks (HEM-RNN).
 (in progress)
 
 
+
+## Experiment on language modeling
+**Text8**
+
+
+
+## Experiment on question answering 
+**bAbI**
+
+
 ## Usage
 To train a copy task:
 ```
@@ -39,7 +49,6 @@ To train a copy task:
 ## Future works
 - Training HEM-RNN to learning *repeat copy*.
 - Training HEM-RNN to learning *associative recall*.
-- Training HEM-RNN to learning *dynamical n-grams*.
 - Training HEM-RNN to learning *priority sort*.
 - Using HEM-RNN for other natural language processing tasks such as neural language model.
 
