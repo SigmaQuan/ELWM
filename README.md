@@ -1,6 +1,6 @@
-# External Long-term and Working Memory argumented Recurrent Neural Networks (ELWM-RNNs)
+# External Long-term and Working Memory augmented Recurrent Neural Networks (ELWM-RNNs)
 
-Experiment on External Long-term and Working Memory argumented Recurrent Neural Networks (ELWM-RNNs).
+Experiment on External Long-term and Working Memory augmented Recurrent Neural Networks (ELWM-RNNs).
 
 
 ## Prerequisties
@@ -31,12 +31,20 @@ Experiment on External Long-term and Working Memory argumented Recurrent Neural 
 
 
 ## Experiment on language modeling
+**PTB**
+(in progress)
+
 **Text8**
+(in progress)
+
+**CBT**
+(in progress)
 
 
 
 ## Experiment on question answering 
 **bAbI**
+(in progress)
 
 
 ## Usage
@@ -47,10 +55,8 @@ To train a copy task:
 
 
 ## Future works
-- Training HEM-RNN to learning *repeat copy*.
-- Training HEM-RNN to learning *associative recall*.
-- Training HEM-RNN to learning *priority sort*.
-- Using HEM-RNN for other natural language processing tasks such as neural language model.
+- Training ELWM-RNNs with reinforcement learning method.
+- Using ELWM-RNNs for other natural language processing tasks.k
 
 
 ## Author
