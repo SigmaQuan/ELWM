@@ -53,7 +53,7 @@ To train a copy task:
 
 ## Future works
 - Training ELWM-RNNs with reinforcement learning method.
-- Using ELWM-RNNs for other natural language processing tasks.k
+- Using ELWM-RNNs for other natural language processing tasks.
 
 
 ## Author
