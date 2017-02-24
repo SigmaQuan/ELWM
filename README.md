@@ -13,38 +13,35 @@ Experiment on External Long-term and Working Memory augmented Recurrent Neural N
 ## Experiment on algorithm learning
 **Copy**
 ![alt_tag](unit_test/image/figure_4.png)
-**NTM Memory Use During the Copy Task**
+**Memory Use During the Copy Task**
 ![alt_tag](unit_test/image/figure_6.png)
 
 **Repeat Copy**
-(in progress)
+(Coming soon...)
 
 **Associative Recall**
-(in progress)
-
-**Dynamic N-Grams**
-(in progress)
+(Coming soon...)
 
 **Priority Sort**
-(in progress)
+(Coming soon...)
 
 
 
 ## Experiment on language modeling
 **PTB**
-(in progress)
+(Coming soon...)
 
 **Text8**
-(in progress)
+(Coming soon...)
 
 **CBT**
-(in progress)
+(Coming soon...)
 
 
 
 ## Experiment on question answering 
 **bAbI**
-(in progress)
+(Coming soon...)
 
 
 ## Usage
